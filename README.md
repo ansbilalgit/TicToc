@@ -1,2 +1,3 @@
 # TicToc
-Basuc implementation of Tic Toc Toe game in Java
+This is basic and very simple implementation of Tic Toc Game. Do contribute with me make this more intelligent and effective.
+
